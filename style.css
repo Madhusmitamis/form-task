@@ -1,0 +1,84 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  background-color: #236746;
+  font-family: "Roboto", sans-serif;
+  margin: 2rem;
+}
+.signup-box {
+  width: 380px;
+  height: 640px;
+  margin: auto;
+  background-color: white;
+  border-radius: 4px;
+}
+.login-box {
+  /* width: 360px; */
+  height: 360px;
+  margin: auto;
+  border-radius: 3px;
+  background-color: white;
+}
+h1 {
+  text-align: center;
+  padding: 15px;
+  font-size: 3.2rem;
+  font-weight: 600;
+  padding-block-start: 3rem;
+}
+h4 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 200;
+  padding: 1rem;
+}
+form {
+  margin-left: 20px;
+}
+form label {
+  font-size: 1.4rem;
+  font-weight: 200;
+  padding-block-start: 1rem;
+  margin-inline-end: 1rem;
+  margin-block-start: 1rem;
+}
+form input {
+  width: 31rem;
+  padding: 1rem;
+  border: 1px solid rgb(206, 203, 203);
+  border-radius: 6px;
+  outline: none;
+  margin-block-end: 1.5rem;
+  margin-block-start: 1rem;
+}
+input[type="button"] {
+  width: 20rem;
+  height: 3.5rem;
+  margin-block-start: 1rem;
+  border: none;
+  background-color: #ff7f4f;
+  color: white;
+  font-size: 18px;
+  margin-left: 20%;
+  cursor: pointer;
+}
+p {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 200;
+  padding: 1rem;
+}
+p a {
+  color: #ff7f4f;
+  text-decoration: none;
+}
+.para-2 {
+  text-align: center;
+  color: white;
+  font-size: 1.6rem;
+  padding: 2rem;
+}
+.para-2 a {
+  color: #ff7f4f;
+}
